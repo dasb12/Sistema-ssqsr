@@ -1,3 +1,3 @@
 <h1>
-Niveles    
+Reporte  
 </h1
