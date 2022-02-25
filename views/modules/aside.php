@@ -52,7 +52,7 @@
                          <li class="nav-item">
                              <a onclick="CargarContenido('content-wrapper','views/reportes.php')" " class=" nav-link active" style="cursor:pointer;">
                                  <i class="far fa-circle nav-icon"></i>
-                                 <p>Reporte de Niveles</p>
+                                 <p>Reporte</p>
                              </a>
                          </li>
                      </ul>
